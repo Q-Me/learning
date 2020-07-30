@@ -19,3 +19,7 @@
   - Must do implementations
     - Track Events
     - Track routes
+
+
+## Misc
+- API JSON parsing - https://app.quicktype.io/
