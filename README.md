@@ -13,6 +13,18 @@
     - [Infinite list](https://bloclibrary.dev/#/flutterinfinitelisttutorial)
     - [Login Flow](https://bloclibrary.dev/#/flutterlogintutorial)
     - [Friebase Todos](https://bloclibrary.dev/#/flutterfirestoretodostutorial)
+- Good to know Flutter packages
+  - https://pub.dev/packages/fl_chart
+  - https://pub.dev/packages/url_launcher
+  - https://pub.dev/packages/dio
+  - https://pub.dev/packages/path_provider
+  - https://pub.dev/packages/package_info
+  - https://pub.dev/packages/cached_network_image
+  - https://pub.dev/packages/local_auth
+  - https://pub.dev/packages/font_awesome_flutter
+  - https://fontawesome.com/
+  - https://pub.dev/packages/intro_slider
+  - https://pub.dev/packages/bottom_navy_bar
 
 ## Firebase
 - Analytics with flutter - https://www.filledstacks.com/post/firebase-analytics-and-metrics-in-flutter/
