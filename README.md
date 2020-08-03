@@ -25,7 +25,9 @@
   - https://fontawesome.com/
   - https://pub.dev/packages/intro_slider
   - https://pub.dev/packages/bottom_navy_bar
-
+- Debigging
+  - [Easily inspecting HTTP Request/Response Payloads and SharedPreferences](https://medium.com/@valiodas/flutter-inspecting-http-request-response-payloads-and-sharedpreferences-dbd3d0cc309e)
+  - [Dart Dev Tools - Network inspection](https://flutter.dev/docs/development/tools/devtools/network)
 ## Firebase
 - Analytics with flutter - https://www.filledstacks.com/post/firebase-analytics-and-metrics-in-flutter/
   - Must do implementations
