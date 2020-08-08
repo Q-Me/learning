@@ -28,8 +28,8 @@
 - Debigging
   - [Easily inspecting HTTP Request/Response Payloads and SharedPreferences](https://medium.com/@valiodas/flutter-inspecting-http-request-response-payloads-and-sharedpreferences-dbd3d0cc309e)
   - [Dart Dev Tools - Network inspection](https://flutter.dev/docs/development/tools/devtools/network)
-- Good Practices
-  - ListView - consider ScrollBar and RefreshIndicator widgets too
+
+    
 ## Firebase
 - Analytics with flutter - https://www.filledstacks.com/post/firebase-analytics-and-metrics-in-flutter/
   - Must do implementations
