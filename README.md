@@ -39,3 +39,9 @@
 
 ## Misc
 - API JSON parsing - https://app.quicktype.io/
+
+## Communities
+ - [/r/Flutter - Discord](https://discord.gg/wrmTAKQ)
+ - [/r/FlutterDev Reddit](https://www.reddit.com/r/FlutterDev/)
+ - [/r/flutterhelp Reddit](https://www.reddit.com/r/flutterhelp/)
+ - [Medium Flutter Community - Articles and Stories from the Flutter Community](https://medium.com/flutter-community)
