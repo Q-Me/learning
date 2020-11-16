@@ -2,6 +2,7 @@
 
 ## Flutter
 - [App brewary - Intro to Flutter](https://www.appbrewery.co/p/intro-to-flutter)
+- [Complete Flutter App development](https://drive.google.com/drive/folders/1xhBsDEpQnC5rU6BhiaD4HZnkCdKLY2o7)
 - Pragmatic State Management - https://youtu.be/HrBiNHEqSYU
 - Everything you need to know on Provider - [video](https://youtu.be/BulIREvHBWg)
 - [BLOC](https://bloclibrary.dev/#/)
